@@ -1,6 +1,6 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-<license isOsiApproved="false" licenseId="Google-Patent-WebM"
-         listVersionAdded="3.29.0" name="Google Patent Grant">
+<exception isOsiApproved="false" licenseId="Google-Patent-WebM"
+         listVersionAdded="3.29.0" name="Google Additional IP Rights Grant (Patents) - WebM">
 <crossRefs>
   <crossRef>https://www.webmproject.org/license/additional/</crossRef>
 </crossRefs>
